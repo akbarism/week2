@@ -1,0 +1,19 @@
+{
+  "name": "cobacoba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akbarism/niki-zefanya.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akbarism/niki-zefanya/issues"
+  },
+  "homepage": "https://github.com/akbarism/niki-zefanya#readme"
+}
